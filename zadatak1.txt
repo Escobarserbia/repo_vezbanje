@@ -1,3 +1,7 @@
 proizvolji sadrzaj ahhahahaha
 update 2.0
+<<<<<<< HEAD
 promena podataka
+=======
+update 3.0
+>>>>>>> 5e6f00ab1502bc71c8703964aba32cc21d9b9af8
